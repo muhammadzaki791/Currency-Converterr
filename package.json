@@ -1,0 +1,27 @@
+{
+  "name": "currency-converterr",
+  "version": "1.0.0",
+  "description": "A command-line tool built with TypeScript for converting currency amounts between different currencies. It provides a user-friendly interface for performing currency conversions directly from the terminal.",
+  "main": "Supports conversion between multiple c",
+  "type": "module",
+  "bin": "cc.js",
+  "scripts": {
+    "test": "Utilizes up-to-date exchange rate data."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadzaki791/Currency-Converterr.git"
+  },
+  "author": "Muhammad Zaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammadzaki791/Currency-Converterr/issues"
+  },
+  "homepage": "https://github.com/muhammadzaki791/Currency-Converterr#readme",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
